@@ -4,7 +4,7 @@
   "description": "��#\u0000 \u0000i\u0000n\u0000i\u0000c\u0000i\u0000o\u0000-\u0000s\u0000e\u0000s\u0000i\u0000o\u0000n\u0000\r\u0000 \u0000",
   "main": "server.js",
   "scripts": {
-    "prod": "node server.js MONGO",
+    "start": "node server.js MONGO",
     "dev": "node server.js MONGO",
     "devmem": "node server.js MEM",
     "devfile": "node server.js FILE"
