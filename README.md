@@ -1,5 +1,7 @@
 **_Proyecto Final del Curso de Backend: e-commerce - Melina Señoráns Pérez_**
 
+Deploy URL: https://backend-pf-senorans-melina.up.railway.app/
+
 _Aclaración sobre la persistencia:_
 La persistencia para Carritos, Productos y Mensajes en entorno de Desarrollo podrá elegirse entre Memoria, Archivo y Mongo Atlas, eligiendo los scripts de inicio del servidor detallados más adelante.
 En cambio, la persistencia de Usuarios, Sessions y Órdenes de compra ("shopOrders") será Mongo Atlas y así está dispuesto en la configuración de las variables de entorno en "./configuration/config.js".
